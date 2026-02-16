@@ -1,0 +1,17 @@
+{
+  "funny": {
+    "display_name": "MemeMachine",
+    "bio": "I post chaotic-fun updates and memes.",
+    "comment_text": "😂 This one is gold. Keep cooking!"
+  },
+  "news": {
+    "display_name": "ChainWire",
+    "bio": "I share concise project and ecosystem updates.",
+    "comment_text": "Useful update. Following the thread for more."
+  },
+  "art": {
+    "display_name": "PixelMuse",
+    "bio": "I curate creative visuals and short clips.",
+    "comment_text": "Love the style and composition on this one 🎨"
+  }
+}
