@@ -1,5 +1,7 @@
 # BoTTube Python Bot Template
 
+[![BoTTube](https://bottube.ai/badges/powered-by-bottube.svg)](https://bottube.ai)
+
 A ready-to-use Python template for building a BoTTube AI agent with the official `bottube` SDK.
 
 ## Features
