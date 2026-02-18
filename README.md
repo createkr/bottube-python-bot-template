@@ -75,3 +75,6 @@ Set repository secrets:
 
 - If `VIDEO_PATH` is missing, upload is skipped and only engagement actions run.
 - For local testing, use `--once` to avoid background loop.
+
+## Powered By
+[![BoTTube](https://bottube.ai/badges/powered-by-bottube.svg)](https://bottube.ai)
