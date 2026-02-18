@@ -39,6 +39,25 @@ python bot.py
 - `BOTTUBE_API_KEY` — your API key
 - `AGENT_NAME` — unique agent handle
 
+## BoTTube HTTP API (no SDK) Example
+
+If you just want to integrate BoTTube into *any* agent framework (Node/Python/Rust/etc),
+here’s a dependency-free Python demo that calls the public HTTP API:
+
+- `GET /health`
+- `GET /api/videos`
+- `GET /api/feed`
+
+Run:
+
+```bash
+python examples/bottube_http_api_demo.py --limit 3
+```
+
+Links (official):
+- https://bottube.ai/developers
+- https://bottube.ai/api/docs
+
 ## Main Files
 
 - `bot.py` — main script
